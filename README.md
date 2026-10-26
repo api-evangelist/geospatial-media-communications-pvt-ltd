@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Geospatial Media & Communications Pvt Ltd is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.geospatialmedia.net/
+Geospatial Media & Communications Pvt Ltd is a leading geospatial media company that provides industry news, conferences, market research, and analysis. It aims to raise the bar of the geospatial industry globally, offering insights, events, and publications to professionals and organizations in the geospatial sector.
+
+**Areas:** Company · Media · Geospatial · Research · Conferences
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://geospatialmedia.net/)
+- [Terms of service](https://geospatialmedia.net/geospatial-think-tank-india/terms-of-reference.html)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/geospatial-media-communications-pvt-ltd/](https://apis.io/providers/geospatial-media-communications-pvt-ltd/).
